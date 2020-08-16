@@ -3,6 +3,7 @@ int main(){
 	int number1,number2,product,sum,subtraction;
 	float division;
 	
+	printf("Arda");
 	printf("Your first number ");
 	scanf("%d",&number1);
 	printf("Your second number ");
